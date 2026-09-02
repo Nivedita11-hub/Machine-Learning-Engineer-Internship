@@ -46,3 +46,8 @@ Machine-Learning-Engineer-Internship/
 ├── 01_Boston_House_Price_Prediction/
 ├── 02_Car_Selling_Price_Prediction/
 └── 03_BERT_Language_Model/
+```
+
+## 🎥 Internship Presentation Video
+
+[Watch the Internship Presentation Video](https://drive.google.com/file/d/1bhC1hoKvm6gR3O3Pbf0iuD29gOVlgPQV/view?usp=drive_link)
